@@ -21,20 +21,19 @@ body {
   gap: 20px;
 }
 
-.plus {
-  background-color: #dc143c;
+button {
   border: none;
   width: 100px;
   height: 50px;
   color: white;
+}
+
+.plus {
+  background-color: #dc143c;
   font-size: 22px;
 }
 
 .minus {
   background-color: #1e90ff;
-  border: none;
-  width: 100px;
-  height: 50px;
-  color: white;
   font-size: 30px;
 }
